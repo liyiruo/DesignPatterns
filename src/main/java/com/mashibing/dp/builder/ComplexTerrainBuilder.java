@@ -1,7 +1,7 @@
 package com.mashibing.dp.builder;
 
 public class ComplexTerrainBuilder implements TerrainBuilder {
-    Terrain terrain = new Terrain();
+    private Terrain terrain = new Terrain();
 
     @Override
     public TerrainBuilder buildWall() {

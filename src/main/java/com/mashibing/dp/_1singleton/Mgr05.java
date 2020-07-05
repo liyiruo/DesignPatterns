@@ -1,4 +1,4 @@
-package com.mashibing.dp.singleton;
+package com.mashibing.dp._1singleton;
 
 /**
  * lazy loading

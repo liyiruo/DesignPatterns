@@ -1,4 +1,4 @@
-package com.mashibing.dp.strategy;
+package com.mashibing.dp._2strategy;
 
 public class Sorter<T> {
 

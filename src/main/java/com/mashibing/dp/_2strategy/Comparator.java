@@ -1,4 +1,4 @@
-package com.mashibing.dp.strategy;
+package com.mashibing.dp._2strategy;
 
 @FunctionalInterface
 public interface Comparator<T> {
